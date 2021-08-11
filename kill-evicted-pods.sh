@@ -2,7 +2,7 @@
 
 
 
-CLUSTERS="microk8s-cluster-h02 microk8s-cluster-h03 arn:aws:eks:us-east-1:107192072649:cluster/hmg-eks"
+CLUSTERS=""
 EXIT_CODE=0
 
 function _clear_evicted() {
